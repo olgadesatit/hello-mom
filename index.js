@@ -4,5 +4,5 @@ const button = document.querySelector('button');
 const output = document.querySelector('.output');
 
 button.addEventListener('click', function () {
-    output.innerHTML = 'Mami, i love you💖💖'
+    output.innerHTML = 'Ilter, i love you, my king💖🤴💖'
 })
